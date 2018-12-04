@@ -6,3 +6,4 @@ lazy val root = (project in file(".")).
   )
 
 libraryDependencies += "org.scalatest" % "scalatest_2.12" % "3.0.5" % "test"
+libraryDependencies += "com.github.nscala-time" %% "nscala-time" % "2.20.0"
