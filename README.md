@@ -18,3 +18,12 @@ or a specific day with:
 ```
 sbt "testOnly se.hallqvist.adventofcode2018.day1.*"
 ```
+
+My results were:
+      -------Part 1--------   -------Part 2--------
+Day       Time  Rank  Score       Time  Rank  Score
+  5   00:19:42  1103      0   00:32:42  1028      0
+  4   03:36:16  3669      0   03:54:12  3552      0
+  3   00:31:57  1551      0   01:00:33  1964      0
+  2   00:19:50  1625      0   00:45:20  1822      0
+  1   00:15:02  1427      0   00:47:25  1443      0
