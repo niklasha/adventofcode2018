@@ -22,6 +22,7 @@ sbt "testOnly se.hallqvist.adventofcode2018.day1.*"
 My results were:
       -------Part 1--------   -------Part 2--------
 Day       Time  Rank  Score       Time  Rank  Score
+  6   04:37:31  3646      0   05:54:31  3744      0
   5   00:19:42  1103      0   00:32:42  1028      0
   4   03:36:16  3669      0   03:54:12  3552      0
   3   00:31:57  1551      0   01:00:33  1964      0
