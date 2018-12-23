@@ -160,7 +160,6 @@ class Day19 extends FlatSpec {
       rs.updated(c, if (rs(a) == rs(b)) 1 else 0)
   }
 
-
   val all = Map(
     "addr" -> Addr(), "addi" -> Addi(), "mulr" -> Mulr(), "muli" -> Muli(),
     "banr" -> Banr(), "bani" -> Bani(), "borr" -> Borr(), "bori" -> Bori(),
